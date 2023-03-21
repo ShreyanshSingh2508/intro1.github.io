@@ -1,1 +1,1 @@
-# https://github.com/ShreyanshSingh2508/intro1.github.io
+# https://shreyanshsingh2508.github.io/intro1
